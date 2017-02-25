@@ -1,0 +1,12 @@
+C:\Users\Aleksa\AppData\Local\Temporary Projects\Zmija\bin\Debug\Zmija.exe.config
+C:\Users\Aleksa\Documents\Visual Studio 2015\Projects\Zmija\Zmija\bin\Debug\Zmija.exe.config
+C:\Users\Aleksa\Documents\Visual Studio 2015\Projects\Zmija\Zmija\bin\Debug\Zmija.exe
+C:\Users\Aleksa\Documents\Visual Studio 2015\Projects\Zmija\Zmija\bin\Debug\Zmija.pdb
+C:\Users\Aleksa\Documents\Visual Studio 2015\Projects\Zmija\Zmija\bin\Debug\Zmija.xml
+C:\Users\Aleksa\Documents\Visual Studio 2015\Projects\Zmija\Zmija\obj\Debug\Zmija.Form1.resources
+C:\Users\Aleksa\Documents\Visual Studio 2015\Projects\Zmija\Zmija\obj\Debug\Zmija.Resources.resources
+C:\Users\Aleksa\Documents\Visual Studio 2015\Projects\Zmija\Zmija\obj\Debug\Zmija.vbproj.GenerateResource.Cache
+C:\Users\Aleksa\Documents\Visual Studio 2015\Projects\Zmija\Zmija\obj\Debug\Zmija.exe
+C:\Users\Aleksa\Documents\Visual Studio 2015\Projects\Zmija\Zmija\obj\Debug\Zmija.xml
+C:\Users\Aleksa\Documents\Visual Studio 2015\Projects\Zmija\Zmija\obj\Debug\Zmija.pdb
+C:\Users\Aleksa\Documents\Visual Studio 2015\Projects\Zmija\Zmija\obj\Debug\Zmija.vbprojResolveAssemblyReference.cache
